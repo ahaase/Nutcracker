@@ -1,4 +1,4 @@
 # Nutcracker
 Solution by Alex Haase.
 
-This should all be correct. Any feedback is much appreciated.
+I can think of a few minor changes I could make to improve it but this should all be correct. Any feedback is much appreciated.
