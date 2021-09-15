@@ -1,7 +1,10 @@
+// Created by Alex Haase
+
 const https = require('https')
 const Node = require('./datastructures/Node.js')
 
-const startTime = performance.now()
+const startTime = performance.now() // To measure the time the the program takes to finish.
+
 getNodes(function(json) { // 1)
 
     let root = buildTree(json) // 2)

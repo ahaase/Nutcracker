@@ -1,3 +1,4 @@
+// Created by Alex Haase
 
 /**
  * A node fitting a binary tree.
